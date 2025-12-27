@@ -1,3 +1,5 @@
+**Extracting and analyzing text from images using Azure Computer Vision and Azure Open AI service**
+
 This repo contains python scripts that extract text from images using Azure Computer Vision and analyzes the extracted text using Azure Open AI service. 
 
 I wrote these scripts to streamline text extraction and analysis using Open AI SDK for a quantitative research on waste policies.
